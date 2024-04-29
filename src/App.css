@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  margin-left:20px;
+}
+
+h1{
+  color:rgb(12, 238, 227);
+  font-family: "Roboto";
+  font-size: 30px;
+  padding-left: 20px;
+}
+
+.para{
+  color:rgb(70, 116, 33);
+  font-family: "Roboto";
+  padding-left: 20px;
+}
+
+button{
+  background-color: rgb(226, 142, 215);
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 2px;
+  border:none
+}
+
+.text{
+  color:#0755f3;
+  padding-left: 20px;
+}
+
